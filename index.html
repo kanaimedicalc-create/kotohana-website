@@ -94,6 +94,46 @@ footer{background:#493329;color:#d8c8be;padding:34px 0;font-size:12px}.footer-ro
   .hero-team{width:90%;left:0}
   .hero-team img{height:300px}
 }
+@media(max-width:640px){
+  body{overflow-wrap:anywhere}
+  .container{width:calc(100% - 24px)}
+  .nav{height:68px;gap:10px}
+  .brand{min-width:0;gap:8px;line-height:1.35}
+  .brand img{width:48px;height:48px;flex:0 0 48px}
+  .brand span{font-size:12px}
+  .brand small{display:none}
+  .navlinks{margin-left:auto;flex:0 0 auto}
+  .navlinks .btn{padding:10px 14px;font-size:12px;white-space:nowrap}
+  .section{padding:64px 0}
+  .hero{padding:42px 0 54px}
+  .hero-grid{gap:30px}
+  .hero-grid>*,.promise-grid>*,.backup-grid>*,.contact-grid>*,.insta-box>*{min-width:0}
+  .eyebrow{display:flex;width:100%;padding:8px 11px;font-size:10px;letter-spacing:.04em}
+  h1{font-size:clamp(32px,11.5vw,48px);letter-spacing:-.035em}
+  .lead{font-size:16px}
+  .hero-visual{display:grid;gap:14px;width:100%;max-width:none;min-height:0;margin:0}
+  .hero-card{position:relative;inset:auto;width:100%;transform:none!important;animation:none!important}
+  .hero-logo{display:none}
+  .hero-team{left:auto;bottom:auto;width:100%}
+  .hero-team img{height:auto;aspect-ratio:4/3;object-position:center 48%}
+  .hero-doctor{right:auto;bottom:auto;width:100%;padding:16px}
+  .doctor-mini img{width:64px;height:64px;flex:0 0 64px}
+  .diff-grid{grid-template-columns:1fr}
+  .dx-grid,.services-grid,.flow{grid-template-columns:1fr}
+  .diff-card,.profile-card,.flow-card,.contact-card{padding:22px}
+  .insta-box{padding:22px}
+  .insta-posts{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .contact-item a{overflow-wrap:anywhere}
+  .floating{right:10px;bottom:10px}
+}
+@media(max-width:360px){
+  .brand span{display:none}
+  .hero-actions .btn{width:100%}
+  .portrait{grid-template-columns:1fr}
+  .portrait img{width:100%;height:auto;aspect-ratio:4/3}
+  .promise-copy,.portrait-card,.contact-card,.insta-box{padding:18px}
+  .section-head h2{font-size:30px}
+}
 </style><link href="site.webmanifest" rel="manifest"/>
 </head><body>
 <header class="header"><div class="container nav"><a class="brand" href="#top"><img alt="ことはな訪問看護ステーション ロゴ" src="assets/logo.svg"/><span>ことはな訪問看護ステーション<small>KOTOHANA HOME NURSING</small></span></a><nav class="navlinks"><a href="#difference">ことはなの違い</a><a href="#service">支援内容</a><a href="#team">専門職</a><a href="#medical-dx">医療DX</a><a class="btn btn-primary" href="#contact">相談する</a></nav></div></header>
