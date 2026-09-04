@@ -1,0 +1,9 @@
+{
+  "name": "ことはな訪問看護ステーション",
+  "short_name": "ことはな訪看",
+  "lang": "ja",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf7",
+  "theme_color": "#ff8d72"
+}
