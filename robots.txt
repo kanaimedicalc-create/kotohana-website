@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://kanaimedicalc-create.github.io/kotohana-website/sitemap.xml
+Sitemap: https://kanaimedicalc-create.github.io/kotohana-website/sitemap.txt
