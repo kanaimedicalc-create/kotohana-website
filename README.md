@@ -17,6 +17,8 @@ https://kanaimedicalc-create.github.io/kotohana-website/
 - 医師連携、WOC認定看護師、特定行為、退院支援、認知症、指定難病、ターミナル、リハビリ
 - LINE QRとリンク
 - Instagramリンク
+- noteリンク
+- 運営規程・重要事項説明書のダウンロード
 - 個人情報保護方針
 
 ## 公開前に確認推奨
@@ -32,3 +34,12 @@ https://kanaimedicalc-create.github.io/kotohana-website/
 - `medical-dx.html`（訪問看護医療DX情報活用加算に係る正式掲示）を追加
 - 個人情報保護方針に医療DX・オンライン資格確認の項目を追加
 - 訪問看護医療DX情報活用加算 50円/月を掲載
+
+## 2026-11-04 更新
+- noteへの導線をトップ・資料欄・フッターに追加
+- 「情報・資料」セクションを追加
+- `downloads/kotohana-operating-regulations.docx`（運営規程）を掲載
+- `downloads/kotohana-important-information.docx`（重要事項説明書）を掲載
+
+### 資料の更新方法
+更新したWordファイルを、上記と同じファイル名で `downloads/` フォルダへ差し替えると、ホームページのリンクを変更せずに最新版へ更新できます。
