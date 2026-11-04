@@ -1,0 +1,35 @@
+name: Update note feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-note-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the website
+        uses: actions/checkout@v4
+
+      - name: Fetch the latest note articles
+        run: node scripts/fetch-note.mjs
+
+      - name: Publish changes
+        run: |
+          if git diff --quiet -- assets/note-feed.json; then
+            echo "No feed changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/note-feed.json
+          git commit -m "Update note feed"
+          git push

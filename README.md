@@ -17,7 +17,7 @@ https://kanaimedicalc-create.github.io/kotohana-website/
 - 医師連携、WOC認定看護師、特定行為、退院支援、認知症、指定難病、ターミナル、リハビリ
 - LINE QRとリンク
 - Instagramリンク
-- noteリンク
+- note最新記事の自動表示（いろのわ@千葉）
 - 運営規程・重要事項説明書のダウンロード
 - 個人情報保護方針
 
@@ -40,6 +40,11 @@ https://kanaimedicalc-create.github.io/kotohana-website/
 - 「情報・資料」セクションを追加
 - `downloads/kotohana-operating-regulations.docx`（運営規程）を掲載
 - `downloads/kotohana-important-information.docx`（重要事項説明書）を掲載
+- noteの最新記事を画像・公開日・タイトル・概要付きで表示
+- GitHub Actionsでnote RSSを6時間ごとに確認し、新しい記事があれば自動更新
 
 ### 資料の更新方法
 更新したWordファイルを、上記と同じファイル名で `downloads/` フォルダへ差し替えると、ホームページのリンクを変更せずに最新版へ更新できます。
+
+### noteの自動更新
+`scripts/fetch-note.mjs` が `https://note.com/dementiacom/rss` を読み込み、`assets/note-feed.json` を更新します。GitHub Actionsの `Update note feed` は6時間ごとに実行されます。ログイン情報やAPIキーの登録は不要です。
