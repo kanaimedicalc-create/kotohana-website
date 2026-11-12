@@ -1,11 +1,25 @@
 {
-  "updated_at": "2026-11-11T19:50:55.412Z",
+  "updated_at": "2026-11-12T07:40:48.463Z",
   "source": {
     "name": "いろのわ@千葉",
     "profile_url": "https://note.com/dementiacom",
     "feed_url": "https://note.com/dementiacom/rss"
   },
   "items": [
+    {
+      "title": "「3日以上、誰とも話さない」という手紙から──イギリスの24時間の高齢者向け電話「The Silver Line」【孤独・孤立対策の先進例 #010】",
+      "permalink": "https://note.com/dementiacom/n/n0a67a342c548",
+      "image_url": "https://assets.st-note.com/production/uploads/images/335097802/rectangle_large_type_2_88f503d3a933b5248571f5cbed2cf04b.jpeg?width=800",
+      "published_at": "2026-11-12T00:30:41.000Z",
+      "excerpt": "「3日以上、誰とも一言も話さないことがよくある」 ひとりの女性から届いたこの手紙が、イギリスの高齢者向けの電話「The Silver Line（シルバーライン）」の出発点になりました。シリーズ「孤独・孤立対策の先進例」10回目は、24時間365日、無料で話せるこの電話を紹介します。公開資料をもとに、認知症専門医の目で検証します。"
+    },
+    {
+      "title": "高齢者も子どもも障害のある人も、分けずに一緒に──富山「このゆびとーまれ」と富山型デイサービス【コミュニティデザインの実例 #017】",
+      "permalink": "https://note.com/dementiacom/n/n7b4aacc0b578",
+      "image_url": "https://assets.st-note.com/production/uploads/images/335068627/rectangle_large_type_2_17ab0036234fd3c71ba6285bcb5c23cc.jpeg?width=800",
+      "published_at": "2026-11-11T23:00:24.000Z",
+      "excerpt": "「家に帰りたい」 病院で、退院してよいと言われたお年寄りが、そう言って泣いている。そんな場面をたくさん見てきた3人の看護師が、1993年に富山で小さなデイサービスを始めました。名前は「このゆびとーまれ」。高齢者も、障害のある人も、子どもも、分けずに一緒に過ごす場所です。"
+    },
     {
       "title": "【コレクティブハウスの実例①】人生の後半を、ひとりにしない住まい――ストックホルム「フェルドクネッペン」",
       "permalink": "https://note.com/dementiacom/n/n577a3139ae10",
@@ -47,20 +61,6 @@
       "image_url": "https://assets.st-note.com/production/uploads/images/334540863/rectangle_large_type_2_a24d985c763d71d9e504af5be066bafa.jpeg?width=800",
       "published_at": "2026-11-10T10:05:49.000Z",
       "excerpt": "「母は最近あまり外に出なくなって、人とも会わなくなりました。認知症と関係ありますか」――ご家族から、こんな心配を聞くことがあるかもしれません。 この疑問に、認知症専門医として、2024年に認知症の学術誌（Alzheimer's & Dementia）に掲載された、オーストラリアの高齢の女性9,947人を17年にわたって調べた研究のデータ…"
-    },
-    {
-      "title": "高齢者の住まいに、学生が「隣人」として住む──オランダ・デーフェンター「Humanitas」に学ぶ世代のまぜ方【コミュニティデザインの実例 #014】",
-      "permalink": "https://note.com/dementiacom/n/n2a32de4300f6",
-      "image_url": "https://assets.st-note.com/production/uploads/images/334467944/rectangle_large_type_2_a516efe01a12bc00cfba9741f9f3e9a4.jpeg?width=800",
-      "published_at": "2026-11-10T06:55:18.000Z",
-      "excerpt": "「高齢者の住まいに、大学生が一緒に住む」 そう聞くと、少し驚かれるかもしれません。シリーズ「コミュニティデザインの実例」、14か所目は海外編です。オランダ・デーフェンターの住まいとケアのセンター「Humanitas（フマニタス）」で、学生が家賃の代わりに「良い隣人」として高齢の方と暮らす取り組みを取り上げます。"
-    },
-    {
-      "title": "要介護認定の「レベル」、何がどう違う？ 7段階の決まり方と、段階で変わること【認知症の気になる疑問】",
-      "permalink": "https://note.com/dementiacom/n/n68b533b61ae6",
-      "image_url": "https://assets.st-note.com/production/uploads/images/334391502/rectangle_large_type_2_59defa5677f018bd7c1658915ad99567.jpeg?width=800",
-      "published_at": "2026-11-10T03:04:04.000Z",
-      "excerpt": "「認知症 介護認定 レベル」「認知症 介護」 検索候補には、こうした言葉が並んでいます。「要介護1と要介護2は何が違うのか」「要支援と要介護はどう分かれるのか」。認定の通知を受け取ったご家族が、まず戸惑うところだと思います。この疑問に、認知症専門医として、厚生労働省の資料をもとにお答えします。"
     }
   ]
 }
