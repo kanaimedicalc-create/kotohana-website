@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-11-12T07:40:48.463Z",
+  "updated_at": "2026-11-12T20:23:56.257Z",
   "source": {
     "name": "いろのわ@千葉",
     "profile_url": "https://note.com/dementiacom",
     "feed_url": "https://note.com/dementiacom/rss"
   },
   "items": [
+    {
+      "title": "運動で、認知機能を守れる？ 104本の研究・34万人あまりのまとめでわかった「関連はあるが、弱い」【認知症の論文紹介】",
+      "permalink": "https://note.com/dementiacom/n/n80d47b97b802",
+      "image_url": "https://assets.st-note.com/production/uploads/images/335278117/rectangle_large_type_2_b954c761780065b51c7144cb61417814.jpeg?width=800",
+      "published_at": "2026-11-12T10:06:40.000Z",
+      "excerpt": "「父に『歩かないと、ぼけるよ』と言っているのですが、本当に効果はあるのでしょうか」――たとえば、こんな疑問です。 この疑問に、認知症専門医として、2024年に医学誌 JAMA Network Open に掲載された研究のデータで答えます。"
+    },
     {
       "title": "「3日以上、誰とも話さない」という手紙から──イギリスの24時間の高齢者向け電話「The Silver Line」【孤独・孤立対策の先進例 #010】",
       "permalink": "https://note.com/dementiacom/n/n0a67a342c548",
@@ -54,13 +61,6 @@
       "image_url": "https://assets.st-note.com/production/uploads/images/334710995/rectangle_large_type_2_72be33cf42337c71a99b151e6f43b5e0.jpeg?width=800",
       "published_at": "2026-11-10T22:54:06.000Z",
       "excerpt": "「道に迷っている人を見かけたら、あなたは声をかけられますか」 シリーズ「コミュニティデザインの実例」、15か所目は国内編です。福岡県大牟田市で2004年から続く「ほっとあんしんネットワーク模擬訓練」を取り上げます。"
-    },
-    {
-      "title": "「体を動かさず、交流が少ない」暮らし方と認知症。オーストラリアの高齢女性9,947人・17年の研究【認知症の論文紹介】",
-      "permalink": "https://note.com/dementiacom/n/n4c56b8668911",
-      "image_url": "https://assets.st-note.com/production/uploads/images/334540863/rectangle_large_type_2_a24d985c763d71d9e504af5be066bafa.jpeg?width=800",
-      "published_at": "2026-11-10T10:05:49.000Z",
-      "excerpt": "「母は最近あまり外に出なくなって、人とも会わなくなりました。認知症と関係ありますか」――ご家族から、こんな心配を聞くことがあるかもしれません。 この疑問に、認知症専門医として、2024年に認知症の学術誌（Alzheimer's & Dementia）に掲載された、オーストラリアの高齢の女性9,947人を17年にわたって調べた研究のデータ…"
     }
   ]
 }
