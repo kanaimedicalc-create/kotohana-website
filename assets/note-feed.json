@@ -1,11 +1,25 @@
 {
-  "updated_at": "2026-11-13T07:13:48.351Z",
+  "updated_at": "2026-11-14T06:58:32.251Z",
   "source": {
     "name": "いろのわ@千葉",
     "profile_url": "https://note.com/dementiacom",
     "feed_url": "https://note.com/dementiacom/rss"
   },
   "items": [
+    {
+      "title": "急がなくていい、おしゃべりレジ──オランダのスーパー「Jumbo」の Kletskassa【孤独・孤立対策の先進例 #012】",
+      "permalink": "https://note.com/dementiacom/n/n50d5d6a5d733",
+      "image_url": "https://assets.st-note.com/production/uploads/images/335855809/rectangle_large_type_2_75fbd510e9926465c5864aaa01e43033.jpeg?width=800",
+      "published_at": "2026-11-14T00:32:22.000Z",
+      "excerpt": "レジで後ろに人が並ぶと、つい焦ってしまう。そんな経験はありませんか？ オランダには、その逆を行くレジがあります。急いでいない人のための、おしゃべりしてよいレジです。"
+    },
+    {
+      "title": "「診断のあとの空白」を埋める場所──認知症カフェの原点、オランダ発「Alzheimer Café」【コミュニティデザインの実例 #021】",
+      "permalink": "https://note.com/dementiacom/n/n3e3df948f9a3",
+      "image_url": "https://assets.st-note.com/production/uploads/images/335825714/rectangle_large_type_2_c99039e4909fc545e3a59aa88b21a0c1.jpeg?width=800",
+      "published_at": "2026-11-13T22:52:08.000Z",
+      "excerpt": "診断を受けたあと、どこに行けばいいのか分からない――。 認知症の診断のあと、ご本人やご家族が、相談できる相手や同じ立場の人と出会える場所を見つけられずにいる。そうした「診断のあとの空白」をどう埋めるかは、認知症の医療と地域づくりの大きな課題だと私は考えています。国際アルツハイマー病協会（ADI）も、体験談にもとづく報告として、これから紹…"
+    },
     {
       "title": "外から来た人と、長く住む人が混ざり合う山あいの町──徳島県・神山町【コミュニティデザインの実例 #020】",
       "permalink": "https://note.com/dementiacom/n/n919cb3eff680",
@@ -47,20 +61,6 @@
       "image_url": "https://assets.st-note.com/production/uploads/images/335068627/rectangle_large_type_2_17ab0036234fd3c71ba6285bcb5c23cc.jpeg?width=800",
       "published_at": "2026-11-11T23:00:24.000Z",
       "excerpt": "「家に帰りたい」 病院で、退院してよいと言われたお年寄りが、そう言って泣いている。そんな場面をたくさん見てきた3人の看護師が、1993年に富山で小さなデイサービスを始めました。名前は「このゆびとーまれ」。高齢者も、障害のある人も、子どもも、分けずに一緒に過ごす場所です。"
-    },
-    {
-      "title": "【コレクティブハウスの実例①】人生の後半を、ひとりにしない住まい――ストックホルム「フェルドクネッペン」",
-      "permalink": "https://note.com/dementiacom/n/n577a3139ae10",
-      "image_url": "",
-      "published_at": "2026-11-11T12:58:16.000Z",
-      "excerpt": "子育てを終えたあと、広い家にひとり。食事も会話も減っていく——。 そうなる前に「自分たちで住まいをつくろう」と動いた人たちがいます。スウェーデン・ストックホルムのコレクティブハウス「フェルドクネッペン（Färdknäppen）」です。1993年から30年以上、当初の設計のまま運営が続いています。"
-    },
-    {
-      "title": "血糖は下げるほど認知症によい？ 糖尿病の管理と認知症、香港の約5.6万人を8年あまり追った研究【認知症の論文紹介】",
-      "permalink": "https://note.com/dementiacom/n/neba04e775246",
-      "image_url": "https://assets.st-note.com/production/uploads/images/334917323/rectangle_large_type_2_3f74389c14f0a9cdeb5bc9fab065f1c4.jpeg?width=800",
-      "published_at": "2026-11-11T10:08:35.000Z",
-      "excerpt": "「父は糖尿病で通院していますが、血糖の数字は、認知症とも関係があるのでしょうか」――たとえば、こんな疑問です。 この疑問に、認知症専門医として、2024年に医学誌 JAMA Network Open に掲載された研究のデータで答えます。"
     }
   ]
 }
