@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-11-19T07:52:52.136Z",
+  "updated_at": "2026-11-19T20:56:39.972Z",
   "source": {
     "name": "いろのわ@千葉",
     "profile_url": "https://note.com/dementiacom",
     "feed_url": "https://note.com/dementiacom/rss"
   },
   "items": [
+    {
+      "title": "血液検査でアルツハイマー病はわかる？髄液の検査と比べた研究【認知症の論文紹介】",
+      "permalink": "https://note.com/dementiacom/n/nafb37041a6a1",
+      "image_url": "https://assets.st-note.com/production/uploads/images/338082218/rectangle_large_type_2_59f5f79523215129389bcaffb201886b.jpeg?width=800",
+      "published_at": "2026-11-19T10:05:05.000Z",
+      "excerpt": "たとえば、「アルツハイマー病かどうかを、血液で調べられるようになったと聞いた。本当にそんなに正確なの？」と気になっている方もいらっしゃるかもしれません。 この疑問に、認知症専門医として、2024年に学術誌 Nature Medicine に掲載された研究のデータで答えます。"
+    },
     {
       "title": "市のすべての地区に、高齢者の「よりどころ」を──イギリス・リーズ「ネイバーフッド・ネットワーク」に学ぶ地域の支え合い【コミュニティデザインの実例 #030】",
       "permalink": "https://note.com/dementiacom/n/n5b8856d3c7d6",
@@ -54,13 +61,6 @@
       "image_url": "https://assets.st-note.com/production/uploads/images/337469950/rectangle_large_type_2_6ff0644186a4a1f7c5e23b736b6b10f0.jpeg?width=800",
       "published_at": "2026-11-17T23:03:00.000Z",
       "excerpt": "病気の人の近くに住む、ふつうの住民が、自宅でのケアの入口に立つ。 インド南部のケララ州で、そんな形で広がったのが、Neighbourhood Network in Palliative Care（ネイバーフッド・ネットワーク・イン・パリアティブケア、略してNNPC）です。直訳すると「緩和ケアの近所のネットワーク」。緩和ケアとは、治すこと…"
-    },
-    {
-      "title": "高齢者施設の中に、保育園がある──アメリカ・シアトル「Intergenerational Learning Center」に学ぶ、世代を超えた毎日【コミュニティデザインの実例 #028】",
-      "permalink": "https://note.com/dementiacom/n/n9c4eb6e0ebc0",
-      "image_url": "https://assets.st-note.com/production/uploads/images/337215848/rectangle_large_type_2_c085ff162e70b0969655f4bf9996ec89.jpeg?width=800",
-      "published_at": "2026-11-17T06:57:16.000Z",
-      "excerpt": "赤いワゴンに乗った小さな子どもたちが、お年寄りのところへ「ごあいさつ」に行く。 アメリカ・シアトルには、そんな光景が日常になっている場所があります。高齢者のケア施設「Providence Mount St. Vincent」の建物の中に、保育園があるのです。"
     }
   ]
 }
