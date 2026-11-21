@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-11-21T07:39:53.173Z",
+  "updated_at": "2026-11-21T19:45:00.699Z",
   "source": {
     "name": "いろのわ@千葉",
     "profile_url": "https://note.com/dementiacom",
     "feed_url": "https://note.com/dementiacom/rss"
   },
   "items": [
+    {
+      "title": "入院中のせん妄と、その後の認知症の関係は？TIA・軽い脳卒中の1,369人の研究【認知症の論文紹介】",
+      "permalink": "https://note.com/dementiacom/n/n67947d564822",
+      "image_url": "https://assets.st-note.com/production/uploads/images/338880803/rectangle_large_type_2_e7aa3c632b10282e161d07bd7578cfae.jpeg?width=800",
+      "published_at": "2026-11-21T10:05:26.000Z",
+      "excerpt": "たとえば、「親が入院したとたん、急に混乱した様子になってしまった。このまま認知症になってしまうのでは」と心配になる方もいらっしゃるかもしれません。入院中のせん妄（せんもう）や感染症と、その後の認知症との関係は、ご家族にとって気になる話題です。 この疑問に関わるデータを、認知症専門医として、2024年に学術誌 Lancet Healthy…"
+    },
     {
       "title": "住み慣れた家で暮らし続けるための「会員制の村」──アメリカ・ボストン「ビーコン・ヒル・ビレッジ」【コミュニティデザインの実例 #034】",
       "permalink": "https://note.com/dementiacom/n/ne9ea9eb25627",
@@ -54,13 +61,6 @@
       "image_url": "https://assets.st-note.com/production/uploads/images/338288092/rectangle_large_type_2_8c5cefa0e24d72f2f38fea6441ee83f2.jpeg?width=800",
       "published_at": "2026-11-20T00:30:40.000Z",
       "excerpt": "世界の6人に1人が、孤独を感じている。 2025年6月30日、WHO（世界保健機関）の「社会的つながりに関する委員会」が、初めての世界的な報告書を発表しました。題名は「From loneliness to social connection（孤独から、社会的つながりへ）」です。シリーズ「孤独・孤立対策の先進例」18回目は、場所ではなく、…"
-    },
-    {
-      "title": "一人の「働きたい」から始まったまちづくり──静岡・富士宮市に学ぶ、本人の声を起点にした認知症の地域づくり【コミュニティデザインの実例 #031】",
-      "permalink": "https://note.com/dementiacom/n/nee2786116f6d",
-      "image_url": "https://assets.st-note.com/production/uploads/images/338261201/rectangle_large_type_2_672a2a591f238e5df91e4594055977b2.jpeg?width=800",
-      "published_at": "2026-11-19T22:55:31.000Z",
-      "excerpt": "「認知症と診断されたら、もう仕事も趣味もあきらめるしかないのでしょうか」 診断を受けたご本人やご家族から、こうした不安を聞くことがあります。今回の国内編は、一人の本人と家族の相談から始まり、市の認知症施策そのものを見直していった静岡県富士宮市の取り組みを紹介します。"
     }
   ]
 }
